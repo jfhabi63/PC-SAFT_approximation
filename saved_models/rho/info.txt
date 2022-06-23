@@ -1,0 +1,20 @@
+loss_min = 0.005625
+epoch_min = 754
+wd = 0
+lr = 0.00056
+
+act_fct=nn.LeakyReLU()
+        self.net1 = nn.Sequential(nn.Linear(input_length, 512),
+                                  act_fct,
+                                  nn.Dropout(0),
+                                  nn.Linear(512, 1024),
+                                  act_fct,
+                                  nn.Dropout(0),
+                                  nn.Linear(1024, 2048),
+                                  act_fct,
+                                  nn.Dropout(0),
+                                  nn.Linear(2048, 1024),
+                                  act_fct,
+                                  nn.Dropout(0),
+                                  nn.Linear(1024, num_targets),
+                                  )

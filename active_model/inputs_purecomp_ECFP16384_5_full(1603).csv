@@ -1,0 +1,362 @@
+components;Segment Number;Segment Diameter;Energy Parameter
+1,1 dimethylcyclohexane;2.72;4.159;290.06
+1,1,1,2,3,3,3-heptafluoropropane;3.519;3.317;164.18
+1,1,1-trichloroethane;2.465;3.756;279.13
+1,1,2,2-tetrachloroethane;4.153;3.261;253.74
+1,1-dimethylcyclopentane;2.786;3.946;264.12
+1,2-butadiene;2.298;3.54;239.01
+1,2-dichloroethane;2.596;3.446;285.01
+1,3,5-trioxane;3.263;3.125;276.1
+1,3-cyclohexadiene;2.535;3.695;280.68
+1,3-dioxolane;2.824;3.191;267.77
+1,4-dioxane;2.726;3.476;290.05
+1-bromonaphthalene;3.655;3.833;358.2
+1br-perfluoro-n-octane;4.427;4.249;229.97
+1-butanethiol;2.888;3.678;272.175
+1-butene;2.286;3.643;222
+1-butylnaphthalene;4.695;3.858;311.66
+1-chlorobutane;2.859;3.642;258.66
+1-chlorohexane;3.63;3.716;258.99
+1-chloropentane;3.201;3.688;261.5
+1-chloropropane;2.603;3.546;250.01
+1-decanethiol;5.001;3.838;271.818
+1-decene;4.37;3.891;250.35
+1-decylnaphthalene;5.767;4.217;318.51
+1-dodecanethiol;5.203;4.031;281.92
+1-dodecene;4.988;3.947;255.14
+1-ethylnaphthalene;3.787;3.881;333.55
+1-heptanethiol;3.824;3.847;276.687
+1-heptyne;3.224;3.774;252.76
+1-hexanethiol;3.567;3.822;272.564
+1-hexene;2.985;3.775;236.81
+1-hexylnaphthalene;5.58;3.858;300.4
+1-hexyne;3.156;3.596;237.56
+1h-perfluoro-n-octane;5.35;3.825;195.41
+1-methylimidazole;3.5;3.206;321.77
+1-methylnaphthalene;3.598;3.817;335.57
+1-nitropropane;3.138;3.407;289.01
+1-nonanethiol;4.63;3.855;272.281
+1-nonylnaphthalene;5.527;4.188;319.52
+1-octadecene;7;4.043;259.84
+1-octene;3.742;3.813;243.02
+1-octyne;3.765;3.733;247.34
+1-pentanethiol;3.128;3.781;277.689
+1-pentene;2.601;3.74;231.99
+1-pentene-3-yne;2.14;3.848;291.31
+1-pentene-4-yne;1.991;3.897;288
+1-pentyne;2.89;3.511;228.48
+1-phenylnaphthalene;4.917;3.823;331.06
+1-propanethiol;2.482;3.61;275.452
+1-propylnaphthalene;3.808;4.031;338.48
+1-propyne;2.483;3.102;205.18
+1-undecanethiol;5.182;3.896;275.561
+2,2,3-trimethylbutane;2.737;4.091;258.65
+2,2,3-trimethylpentane;3.095;4.067;260.59
+2,2,4,4-tetramethylpentane;3.175;4.209;262.92
+2,2,4-trimethylpentane;3.141;4.086;249.77
+2,2,5-trimethylhexane;3.762;3.984;241.1
+2,2-dimethyl-3-ethylpentane;3.45;4.07;259.84
+2,2-dimethylbutane;2.601;4.004;243.51
+2,2-dimethylheptane;3.871;3.95;243.3
+2,2-dimethylhexane;3.448;3.96;243
+2,2-dimethyloctane;4.046;4.022;251.01
+2,3,3-trimethylpentane;3.017;4.1;268
+2,3,4-trimethylpentane;3.215;4.016;257.82
+2,3-dimethyl-1-butene;2.953;3.735;247.15
+2,3-dimethyl-2-butene;2.955;3.733;247.03
+2,3-dimethylbutane;2.685;3.955;246.07
+2,3-dimethylhexane;3.463;3.93;249.02
+2,3-dimethylpentane;3.064;3.928;249.83
+2,4,4-trimethyl-1-pentene;3.065;4.068;256.32
+2,5-dihydrofuran;2.582;3.353;272.75
+2,5-dimethylfuran;3.352;3.462;247.66
+2,5-dimethyltetrahydrofuran;3.442;3.554;241.22
+2,5-dimethylthiophene;3.291;3.611;277.68
+2,6-lutidine;3.788;3.473;263.64
+2-acetylfuran;4.387;3.149;265.37
+2-acetylthiophene;4.009;3.363;303.84
+2-chloropropane;2.415;3.618;251.47
+2-ethylhexanal;4.869;3.504;236.37
+2-hexyne;2.86;3.737;261.66
+2-methylfuran;2.893;3.415;249.7
+2-methylhexanal;4.429;3.498;238.15
+2-methylhexane;3.348;3.861;237.42
+2-methylnaphthalene;3.323;3.953;347.55
+2-methylpentane;2.932;3.854;235.58
+2-methylpropanal;3.558;3.2;222.71
+2-methylpyridine;2.974;3.566;293.67
+2-methyltetrahydrofuran;3.293;3.406;240.72
+2-methylthiophene;2.283;3.872;327.78
+2-nitropropane;3.102;3.424;281.65
+2-pentanone;3.43;3.469;249.83
+2-pentyne;2.396;3.747;269.25
+2-thiophenecarboxaldehyde;3.805;3.235;303.07
+3,4 dimethylhexane;3.403;3.943;253.13
+3-ethylpentane;3.14;3.907;249.17
+3-hexyne;2.93;3.7;255.43
+3-methyl-1-butene;2.454;3.815;231.15
+3-methyl-1-hexene;3.308;3.802;236.03
+3-methyl-1-pentene;2.658;3.918;245.25
+3-methyl-2-butanone;3.532;3.414;242.56
+3-methylpentane;2.885;3.861;240.48
+3-methylpyridine;2.957;3.572;306.74
+3-methylthiophene;2.601;3.697;306.13
+3-pentanone;3.364;3.488;252.7
+5-methylfurfural;3.968;3.268;289.77
+acenaphthene;3.639;3.856;355.5
+acetic anhydride;4.218;3.133;250.93
+acetone;2.829;3.25;250.26
+acetonitrile;2.329;3.19;311.31
+allyl acetate;3.334;3.515;254.64
+anisol;3.47;3.503;285.036
+anthracene;3.549594;4.088;401.673
+benzaldehyde;3.147;3.576;321.19
+benzene;2.465;3.648;287.35
+benzofuran;2.966;3.722;326.56
+benzothiazole;3.264;3.642;354.74
+benzothiophene;2.891;3.858;366.06
+benzyl benzoate;5.799;3.661;299.33
+benzyl butanoate;5.306;3.592;270.35
+benzyl ethanoate;4.899;3.434;268.07
+benzyl ethyl ether;4.015;3.651;277.75
+benzyl propanoate;5.12;3.504;265.73
+beta-propiolactone;2.903;3.154;336.84
+biphenyl;3.888;3.815;327.42
+bromobenzene;2.646;3.836;334.37
+butane;2.332;3.709;222.88
+butanone;3.075;3.393;252.27
+butyl benzoate;4.913;3.707;283.08
+butylcyclohexane;3.602;4.064;285.97
+butylcyclopentane;3.644;3.915;269.66
+butyric anhydride;5.25;3.527;246.88
+butyronitrile;2.795;3.502;298.03
+camphene;3.032;4.147;300.83
+camphor;3.744;3.887;301.73
+chlorobenzene;2.649;3.753;315.04
+chloroethane;2.264;3.416;245.43
+cis-decahydronaphthalene;2.985;4.18;331.18
+cumene;3.32;3.868;284.09
+cyclobutane;2.099;3.619;254.45
+cycloheptane;2.698;3.934;296.09
+cycloheptene;2.944;3.769;279.23
+cyclohexane;2.53;3.85;278.11
+cyclohexene;2.448;3.809;287.44
+cyclohexyl acetate;4.225;3.615;263.35
+cyclooctane;2.886;4.012;307.03
+cyclooctene;3.011;3.828;296.24
+cyclopentadiene;1.933;3.813;294.29
+cyclopentane;2.366;3.711;265.83
+cyclopentanone;2.809;3.534;307.24
+cyclopentene;2.293;3.667;267.76
+cyclopropane;1.826;3.508;234.45
+decane;4.663;3.838;243.87
+decyl acetate;6.896;3.575;234.94
+decylcyclohexane;6.033;4.008;272.23
+diallyl maleate;7.329;3.232;235.29
+dibenzothiophene;3.724;3.979;384.26
+dibenzyl ether;7.083;3.31;258.77
+dibutyl ether;4.62;3.64;228.48
+dibutyl maleate;8.264;3.355;234.78
+dibutyl phthalate;7.728;3.657;265.37
+dibutyl sebacate;10.272;3.591;237.05
+dibutyl succinate;6.455;3.707;259.492
+dichloro silane;2.081;3.655;251.49
+dichloromethane;2.263;3.338;274.2
+diethyl disulfide;3.137;3.791;297.77
+diethyl ether;2.899;3.475;224.22
+diethyl maleate;5.364;3.588;257.45
+diethyl phthalate;6.839;3.474;262.72
+diethyl succinate;6.223;3.32;238.21
+diethyl sulfide;2.908;3.66;266.25
+dihexyl adipate;10.532;3.558;234.09
+diketene;3.833;3.027;258.6
+dimethyl chlorosilane;2.517;3.777;240.78
+dimethyl dichlorosilane;3.076;3.692;238.85
+dimethyl disulfide;2.643;3.584;300.67
+dimethyl ether;2.307;3.253;211.06
+dimethyl maleate;5.01;3.268;262.83
+dimethyl phthalate;5.68;3.45;284.56
+dimethyl silane;1.782;4.053;241.95
+dimethyl sulfide;2.199;3.498;273.25
+dimethylformamide;2.388;3.658;363.77
+diphenyl ether;3.596;4.021;340.4
+dipropyl disulfide;3.915;3.822;285.78
+dipropyl ether;3.493;3.693;234.16
+dipropyl maleate;7.263;3.137;235.22
+dipropyl phthalate;6.978;3.61;268.8
+dipropyl sulfide;3.549;3.777;267.42
+disilane;1.475;4.021;284
+docosane;8.96;3.951;254.31
+dodecane;5.306;3.896;249.21
+eicosane;7.985;3.987;257.75
+ethane;1.607;3.521;191.42
+ethanethiol;2.168;3.53;272.621
+ethoxybenzol;3.885;3.565;275.37
+ethyl acetate;3.6;3.272;228.92
+ethyl dodecanoate;6.886;3.762;248.28
+ethyl ethanoate;3.538;3.308;230.8
+ethyl heptadecanoate;8.551;3.865;252.72
+ethyl hexanoate;4.731;3.608;242.09
+ethyl methanoate;2.888;3.311;246.47
+ethyl nonanoate;5.743;3.715;247.07
+ethyl octanoate;5.439;3.676;244.8
+ethyl pentanoate;4.531;3.522;235.96
+ethyl propanoate;3.837;3.403;232.78
+ethyl tetradecanoate;7.324;3.845;254.1
+ethyl undecanoate;6.49;3.751;248.77
+ethylbenzene;3.08;3.797;287.35
+ethylcyclohexane;2.826;4.104;294.04
+ethylcyclopentane;2.906;3.887;270.5
+ethylene;1.593;3.445;176.47
+ethylene oxide;2.047;3.148;269.57
+ethylene sulfide;1.956;3.431;317.56
+ethylhexyl acetate;5.907;3.531;231.85
+ethyl-t-butyl sulfide;3.148;3.934;268.45
+ethyne;2.487;2.758;156.17
+furan;2.554;3.297;245.61
+furfural;2.747;3.116;349.63
+glutaric anhydride;4.127;3.195;353.59
+heptadecane;6.981;3.968;255.65
+heptane;3.483;3.805;238.4
+heptyl acetate;5.38;3.587;239.08
+hexadecane;6.649;3.955;254.7
+hexamethyl disilazane;4.477;3.917;219.01
+hexamethyl disiloxane;4.053;4.047;214.19
+hexane;3.058;3.798;236.77
+hexatriacontane;14.332;3.884;252.89
+hexyl acetate;4.845;3.583;241.42
+hydrogen sulfide;1.694;3.021;226.79
+indane;3.109;3.823;316.99
+indene;2.897;3.88;334.88
+isobutane;2.262;3.757;216.53
+isobutyl acetate;4.201;3.452;229.69
+isopentane;2.562;3.83;230.75
+isopentyl acetate;4.179;3.63;244.76
+isophorone;3.264;4.032;328.86
+isopropyl acetate;3.608;3.482;231.91
+isopropylcyclohexane;3.268;4.042;284.66
+isopropylcyclopentane;3.032;4.002;278.15
+m-dibromobenzene;2.881;3.914;363.31
+m-dinitrobenzene;6.068;3.003;293.97
+methane;1;3.704;150.03
+methanethiol;1.937;3.3;270.408
+methyl butanoate;3.676;3.444;240.62
+methyl chloride;1.93;3.229;240.56
+methyl chlorosilane;2.044;3.787;251.97
+methyl dichlorosilane;2.439;3.757;251.73
+methyl ethyl sulfide;2.529;3.611;271.4
+methyl isobutyl ketone;3.363;3.68;259.89
+methyl methanoate;2.678;3.088;242.63
+methyl oleate;9.666;3.651;240.45
+methyl propanoate;3.48;3.314;234.96
+methyl silane;1.781544;3.752;205.886
+methyl trichlorosilane;2.603;3.882;259.26
+methylcyclohexane;2.664;3.999;282.33
+methylcyclopentadiene;2.773;3.593;260.55
+methylcyclopentane;2.613;3.825;265.12
+methyl-n-butyl sulfide;3.243;3.719;270.11
+methyl-n-pentyl ether;3.889;3.548;227.85
+methyl-n-propyl ether;3.193;3.39;215.43
+methyl-n-propyl sulfide;2.928;3.652;267.83
+methyl-t-butyl sulfide;2.8;3.909;273.18
+methyl-t-pentyl sulfide;2.965;4.031;299.81
+m-nitrotoluene;3.546;3.672;331.95
+m-xylene;3.186;3.756;283.98
+n,n-dimethylpiperazine;4.501;3.338;226.65
+naphthalene;3.005;3.913;353.63
+n-butanal;2.979;3.434;253.62
+n-butyl ethanoate (butyl acetate);3.981;3.543;242.52
+n-butylbenzene;3.766;3.873;283.07
+n-decanal;5.514;3.601;248.13
+n-dodecanal;6.062;3.714;252.11
+neopentane;2.354;3.955;225.69
+n-heneicosane;8.301;3.994;259.64
+n-heptanal;4.251;3.549;249.76
+n-hexanal;3.678;3.542;256.13
+nitrobenzene;3.144;3.642;344.88
+nitroethane;3.018;3.214;286.57
+nitromethane;2.655;3.08;305.98
+n-methyl-2-pyrrolidone;3.242;3.484;336.42
+n-methylmorpholine;3.006;3.66;278.47
+n-methylpiperidine;2.915;3.799;274.82
+n-methylpyrrolidine;2.315;3.928;293.5
+n-nonanal;5.042;3.582;249.619
+nonadecane;7.718;3.972;256
+nonane;4.208;3.845;244.51
+nonyl acetate;6.836;3.495;227.63
+n-propyl ethanoate;3.786;3.423;235.76
+n-propyl methanoate;3.209;3.417;246.46
+n-propyl propanoate;4.116;3.488;235.6
+n-propylbenzene;3.344;3.844;288.13
+n-tetradecanal;8.262;3.492;240.6
+n-tricosane;9.092;3.989;258.18
+n-tridecanal;7.347;3.682;248.02
+octacosane;11.083;3.979;255.62
+octadecane;7.327;3.967;256.2
+octafluorocyclobutane;3.735;3.367;164.66
+octane;3.818;3.837;242.78
+octyl acetate;5.96;3.56;236.43
+o-dichlorobenzene;2.841;3.847;338.4
+o-dinitrobenzene;6.284;3.051;297.61
+o-nitrotoluene;3.992;3.501;306.03
+oxazole;2.504;3.279;283.56
+oxetane;2.102;3.433;295.43
+o-xylene;3.136;3.76;291.05
+p-bromotoluene;3.348;3.708;308.97
+p-dinitrobenzene;6.416;3.043;283.69
+p-dioxane;2.972;3.376;275.88
+pentadecane;6.286;3.953;254.14
+pentane;2.69;3.773;231.2
+pentyl acetate;4.708;3.473;234.57
+perfluorobenzene;3.29;3.56;239.92
+perfluoro-n-hexane;4.967;3.617;171.45
+perfluoro-n-nonane;5.985;3.843;188.62
+perfluorotoluene;4.408;3.449;215.95
+propadiene;1.551;3.708;257.73
+propanal;2.676;3.263;251.89
+propane;2.002;3.618;208.11
+propionic anhydride;4.814;3.322;244.8
+propionitrile;2.662;3.34;294.08
+propyl benzoate;4.666;3.653;281.56
+propylcyclohexane;3.278;4.05;285.91
+propylcyclopentane;3.264;3.904;270.48
+propylene;1.96;3.536;207.19
+p-tert-butylstyrene;3.862;4.049;303.56
+p-tolualdehyde;4.17;3.426;289.34
+p-xylene;3.172;3.778;283.77
+pyrazine;2.161;3.576;352.6
+pyrene;3.76;4.157;421.04
+pyridazine;2.668;3.419;387.69
+pyridine;2.708;3.447;304.12
+pyrimidine;2.449;3.67;327.23
+sec-butyl acetate;4.142;3.474;228.31
+silane;1.236;3.894;191.99
+sulfur dioxide;2.861;2.683;205.35
+terephthaldehyde;5.157;3.109;286.91
+tert-butylbenzene;3.446;3.967;287.79
+tetrachloro silane;2.73;3.768;246.27
+tetracosane;9.684;3.971;254.69
+tetradecane;5.9;3.94;254.21
+tetraethyl silane;3.743;4.072;259.04
+tetrahydrofuran;2.437;3.532;279.52
+tetrahydropyran;2.621;3.668;281.5
+tetrahydrothiophene;2.414;3.683;326.74
+tetralin;3.313;3.875;325.07
+tetramethyl silane;2.744;3.915;217.89
+thiacyclohexane;2.597;3.795;326.98
+thiazole;2.787;3.267;305.19
+thietane;2.454;3.517;304.67
+thiophene;2.497;3.54;291.442
+thiophenol;3.289;3.49;307.05
+toluene;2.815;3.717;285.69
+trans-decahydronaphthalene;2.948;4.237;325.91
+trichlormethan;2.53;3.461;269.470007
+trichloro silane;2.489;3.689;241.65
+tridecane;5.688;3.914;249.78
+trimethyl chlorosilane;2.908;3.812;235.77
+trimethyl silane;2.237;3.996;230.66
+trinitromethane;4.098;3.229;290.53
+undecane;4.908;3.889;248.82
+vinyl acetate;3.467;3.467;231.45
+vinyl methyl ether;2.708;3.243;215.05
+vinylcyclohexene;2.846;3.973;291.41

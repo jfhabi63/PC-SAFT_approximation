@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="gauss_test.Dataset.input_length" />
+          <option value="gauss_test.Dataset.n_samples" />
+          <option value="gauss_test.Dataset.num_targets" />
+          <option value="gauss_test.Dataset.std_eval" />
+          <option value="gauss_test.Dataset.bin_mode" />
+          <option value="gauss_test.Dataset.symm_mode" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
