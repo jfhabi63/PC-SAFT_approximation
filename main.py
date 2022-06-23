@@ -78,7 +78,7 @@ def main(rand_seed,lr,wd):
         loss_history["validation"],
         build_dir / "loss.png",
     )
-    limits=[5,500]
+    limits=[5,5000]
     y_pred_test, y_test = calc_pred(test_loader,model)
     MAE_vector_test = calc_MAE(y_pred_test, y_test,limits)
     while len(MAE_vector_test)< y_pred_test.shape[0]:
