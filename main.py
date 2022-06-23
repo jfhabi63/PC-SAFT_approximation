@@ -20,7 +20,7 @@ def main(rand_seed,lr,wd):
 
 
     loader_kwargs = {
-        "batch_size": 52,
+        "batch_size": 512,
         "drop_last": False,
         "num_workers": 0,
         "pin_memory": False,
